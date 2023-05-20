@@ -1,0 +1,6 @@
+
+xcassets:
+  inputs: okuuchu_iOS/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: okuuchu_iOS/Resources/Assets.swift
